@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
+comment: str = "This is a langchain-course project."
 
 
 def main():
